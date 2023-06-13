@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D6594DD-B9A6-46D6-A07C-23323A744555"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatchGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - 3446b8fce4403c86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.kenny6.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - 18c17a9a8dedcb2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.kenny6.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - 9285b3a7a8e98483"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.kenny6.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - 2fca1b829f5feef2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.kenny6.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - 2ec155b9650662a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatchGame.ViewController"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "A8CB7C6D-6A67-4DC3-906A-ED15963238D0 - ed48f23b75662bfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatchGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatchGame.ViewController&gt;"
+                  moduleName = "CatchGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/senatoprakci/Desktop/I%CC%87OS%20Complete/CatchGame/CatchGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
